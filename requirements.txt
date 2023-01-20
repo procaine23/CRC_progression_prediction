@@ -6,3 +6,4 @@ shap==0.39.0
 lightgbm==2.2.3
 streamlit==1.16.0
 scikit-learn==0.24.0
+scikit-plot==0.3.7
